@@ -95,7 +95,8 @@ ENV/
 
 # User files and directory
 old
+doc
+octave-workspace
 *.dill
 *.pkl
-
-
+.*
