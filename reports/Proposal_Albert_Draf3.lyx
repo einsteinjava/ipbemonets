@@ -1,0 +1,8118 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass report
+\begin_preamble
+\usepackage{sectsty}
+\usepackage[table]{xcolor}
+\usepackage{algorithmic}
+\usepackage{natbib}
+\usepackage{tikz}
+\usepackage{indentfirst}
+\usepackage{times}
+
+\chapterfont{\centering}
+\sectionfont{\centering}
+
+
+\usepackage{tocloft}
+\usepackage{blindtext}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language bahasa
+\language_package auto
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format pdf2
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\float_placement H
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_title "Proposal Tesis Draf 3"
+\pdf_author "Albert Einstein"
+\pdf_subject "Pengenalan Emosi Menggunakan Pendekatan Pembelajaran Dalam untuk Inteligensi Bisnis dan Analitis"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 5
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style authordate1
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 3cm
+\topmargin 3cm
+\rightmargin 3cm
+\bottommargin 3cm
+\secnumdepth 0
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation 20bp
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+PENGENALAN EMOSI MENGGUNAKAN PENDEKATAN PEMBELAJARAN DALAM UNTUK INTELIGENSI
+ BISNIS AND ANALITIS
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+ALBERT EINSTEIN 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\begin_inset Graphics
+	filename ../../../THESISReport/img/Logo_IPB.svg
+	lyxscale 3
+	width 2.5cm
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\align center
+
+\series bold
+SEKOLAH PASCASARJANA
+\begin_inset Newline newline
+\end_inset
+
+INSTITUT PERTANIAN BOGOR
+\begin_inset Newline newline
+\end_inset
+
+BOGOR
+\begin_inset Newline newline
+\end_inset
+
+2017
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{1} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+PERNYATAAN MENGENAI TESIS DAN 
+\begin_inset Newline newline
+\end_inset
+
+SUMBER INFORMASI SERTA PELIMPAHAN HAK CIPTA
+\end_layout
+
+\begin_layout Standard
+Dengan ini saya menyatakan bahwa tesis berjudul Pengenalan Emosi menggunakan
+ Teknik Pembelajaran Dalam untuk Inteligensi Bisnis dan Analitis adalah
+ benar karya saya dengan arahan dari komisi pembimbing dan belum diajukan
+ dalam bentuk apa pun kepada perguruan tinggi mana pun.
+ Sumber informasi yang berasal atau dikutip dari karya yang diterbitkan
+ maupun tidak diterbitkan dari penulis lain telah disebutkan dalam teks
+ dan dicantumkan dalam Daftar Pustaka di bagian akhir tesis ini.
+\end_layout
+
+\begin_layout Standard
+Dengan ini saya melimpahkan hak cipta dari karya tulis saya kepada Institut
+ Pertanian Bogor.
+\end_layout
+
+\begin_layout Standard
+\align right
+Bogor, Juli 2017
+\end_layout
+
+\begin_layout Standard
+\align right
+Albert Einstein
+\begin_inset Newline newline
+\end_inset
+
+G651150211
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+RINGKASAN
+\end_layout
+
+\begin_layout Standard
+....
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+SUMMARY
+\end_layout
+
+\begin_layout Standard
+....
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\align center
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\series bold
+© Hak Cipta Milik IPB, Tahun 2017
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\align center
+
+\series bold
+Hak Cipta Dilindungi Undang-Undang
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\shape italic
+Dilarang mengutip sebagian atau seluruh karya tulis ini tanpa mencantumkan
+ atau menyebutkan sumbernya.
+ Pengutipan hanya untuk kepentingan pendidikan, penelitian, penulisan karya
+ ilmiah, penyusunan laporan, penulisan kritik, atau tinjauan suatu masalah;
+ dan pengutipan tersebut tidak merugikan kepentingan IPB
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\shape italic
+Dilarang mengumumkan dan memperbanyak sebagian atau seluruh karya tulis
+ ini dalam bentuk apa pun tanpa izin IPB
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size large
+PENGENALAN EMOSI MENGGUNAKAN PENDEKATAN PEMBELAJARAN DALAM UNTUK INTELIGENSI
+ BISNIS DAN ANALITIS
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\align center
+
+\series bold
+ALBERT EINSTEIN
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\begin_inset VSpace bigskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\align center
+Tesis 
+\begin_inset Newline newline
+\end_inset
+
+sebagai salah satu syarat untuk memperoleh gelar 
+\begin_inset Newline newline
+\end_inset
+
+Magister Komputer 
+\begin_inset Newline newline
+\end_inset
+
+pada
+\begin_inset Newline newline
+\end_inset
+
+Program Studi Ilmu Komputer
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+SEKOLAH PASCASARJANA 
+\begin_inset Newline newline
+\end_inset
+
+INSTITUT PERTANIAN BOGOR 
+\begin_inset Newline newline
+\end_inset
+
+BOGOR 
+\begin_inset Newline newline
+\end_inset
+
+2017
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 30pheight%
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Penguji Luar Komisi pada Ujian Tesis: ....
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Judul: Pengenalan Emosi Menggunakan Pendekatan Pembelajaran Dalam untuk
+ Inteligensi Bisnis dan Analitis
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Nama: Albert Einstein
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+NIM: G651150211
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset VSpace bigskip
+\end_inset
+
+Disetujui oleh
+\begin_inset Newline newline
+\end_inset
+
+Komisi Pembimbing
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\bar under
+Dr.
+ Eng.
+ Taufik Djatna, S.TP, M.Si
+\series bold
+\bar default
+ 
+\begin_inset space \hfill{}
+\end_inset
+
+
+\series default
+\bar under
+Dr.
+ Ir.
+ Agus Buono, M.Si, M.Kom
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Ketua 
+\begin_inset space \hfill{}
+\end_inset
+
+ Anggota 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Diketahui oleh
+\end_layout
+
+\begin_layout Standard
+\noindent
+Ketua Program Studi 
+\begin_inset space \hspace*{\fill}
+\end_inset
+
+ Dekan Sekolah Pascasarjana
+\begin_inset Newline newline
+\end_inset
+
+Ilmu Komputer
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Dr.
+ Ir.
+ Agus Buono, M.Si, M.Kom
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\begin_inset VSpace bigskip*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+Tanggal Ujian: ....
+ 
+\begin_inset space \hspace*{\fill}
+\end_inset
+
+Tanggal Lulus: ....
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+PRAKATA
+\end_layout
+
+\begin_layout Standard
+....
+\end_layout
+
+\begin_layout Standard
+\align right
+Bogor, Juli 2017
+\end_layout
+
+\begin_layout Standard
+\align right
+Albert Einstein
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{3} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{roman}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+contentsname{DAFTAR ISI}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+listtablename{DAFTAR TABEL}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+listfigurename{DAFTAR GAMBAR}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+DAFTAR LAMPIRAN
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{10} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+chaptername}{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thechapter}{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thesection}{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thesubsection}{}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+PENDAHULUAN
+\end_layout
+
+\begin_layout Section
+Latar Belakang
+\end_layout
+
+\begin_layout Standard
+Inteligensi bisnis dan analitis (
+\shape italic
+Bussiness Intelligence and Analytics
+\shape default
+, BIA) adalah tentang pengembangan teknologi, sistem, praktik, dan aplikasi
+ untuk menganalisis data bisnis penting agar mendapatkan wawasan baru tentang
+ bisnis dan pasar.
+ Wawasan baru tersebut dapat digunakan untuk memperbaiki produk dan layanan,
+ mencapai efisiensi operasional yang lebih baik, dan membina hubungan dengan
+ pelanggan 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Lim2013"
+
+\end_inset
+
+.
+ Dengan inisiatif BIA, bisnis mendapat wawasan dari pertumbuhan volume transaksi
+, produk, persediaan, pelanggan, pesaing, dan data industri yang dihasilkan
+ oleh aplikasi skala perusahaan seperti, perencana sumber daya perusahaan
+ (
+\shape italic
+Enterprise Resource Planning
+\shape default
+, ERP), manajemen hubungan pelanggan (
+\shape italic
+Customer Relationship Management
+\shape default
+, CRM), manajemen rantai pasok (
+\shape italic
+Supplay Chain Management
+\shape default
+, SCM), manajemen pengetahuan (
+\shape italic
+knowledge management
+\shape default
+), komputasi kolaboratif, analitik web, media sosial, dan data yang dibangkitkan
+ oleh sensor 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Chen2012"
+
+\end_inset
+
+.
+ Dua dari beberapa data yang dibangkitkan oleh sensor adalah data audio
+ dan data video.
+ Menurut konsep inteligensi bisnis terintegrasi yang diusulkan oleh 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "baars2008management"
+
+\end_inset
+
+ bahwa wawasan dapat diambil dari penggabungan data terstruktur dan tak
+ tersturktur.
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "helfenstein2014emotional"
+
+\end_inset
+
+ memperkenalkan istilah 
+\shape italic
+Emotional Business Intelligence
+\shape default
+ (EBI) yang bertujuan untuk mendukung bisnis yang terkait emosi dan keputusan
+ yang peka terhadap emosi sebagai tambahan bagi pengambilan keputusan rasional.
+ EBI memiliki misi membekali pelaku bisnis dengan wawasan dan sarana manajemen
+ yang diperlukan.
+ Menurutnya EBI berasal dari tiga domain utama: 
+\shape italic
+emotional business
+\shape default
+, 
+\shape italic
+emotional intelligence 
+\shape default
+dan
+\shape italic
+ business intelligence
+\shape default
+.
+ Untuk pemasar dan disainer dimungkinkan penggunaan teknik Kansei (
+\shape italic
+Kansei engineering
+\shape default
+) lebih lanjut seperti yang terdapat pada 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "nagamachiinnovations"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Mehrabian2008"
+
+\end_inset
+
+ menyatakan bahwa ekspresi wajah memeberikan peran 55% terhadap keseluruhan
+ pesan dari pembicaranya, begitu juga komponen suara memberi peran 38%,
+ sedangkan komponen verba menunjukan peran hanya sekitar 7%.
+ Hal ini memberikan indikasi kasar bahwa ekspresi wajah dan suara adalah
+ dua hal yang paling penting pada transmisi emosi dari pembicaranya.
+ Di lain sisi, makna sistaksis dan semantik dari yang terucapkan tidak semua
+ dapat tersampaikan.
+ Penelitian klasik tertuju untuk menemukan jawaban atas pertanyaan 
+\begin_inset Quotes eld
+\end_inset
+
+Apa yang dikatakan?
+\begin_inset Quotes erd
+\end_inset
+
+ dan 
+\begin_inset Quotes eld
+\end_inset
+
+Siapa yang mengatakan?
+\begin_inset Quotes erd
+\end_inset
+
+ yang merupakan bahasan pada tema penelitian pengenalan ucapan (
+\shape italic
+speech recognition
+\shape default
+) dan identifikasi pembicara (
+\shape italic
+speaker identification
+\shape default
+).
+ Tetapi baru-baru ini, pertanyaan 
+\begin_inset Quotes eld
+\end_inset
+
+Bagaimana itu dikatakan?
+\begin_inset Quotes erd
+\end_inset
+
+ telah menjadi perhatian lebih dari kominitas peneliti 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Chen2009"
+
+\end_inset
+
+.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "picard1995affective"
+
+\end_inset
+
+ mengistilahkannya dengan komputasi afektif 
+\shape italic
+(affective computing
+\shape default
+).
+\end_layout
+
+\begin_layout Standard
+Pembelajaran dalam (
+\shape italic
+deep learning
+\shape default
+) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "bengio2009learning"
+
+\end_inset
+
+ merupakan cabang dari pembelajaran mesin (
+\shape italic
+machine learning
+\shape default
+) berdasarkan satu set algoritma yang mencoba untuk membuat suatu model
+ abstraksi pada tingkat tinggi terhadap data latih yang digunakan.
+ Diantara arsitekturnya
+\shape italic
+ deep neural networks
+\shape default
+, 
+\shape italic
+convolutional deep neural networks
+\shape default
+,
+\shape italic
+ deep belief networks
+\shape default
+, dan 
+\shape italic
+recurrent neural networks
+\shape default
+ telah diterapkan pada beberapa bidang seperti visi komputer (
+\shape italic
+computer vision
+\shape default
+), pengenalan ucapan otomatis (
+\shape italic
+automatic speech recognition
+\shape default
+), pengolahan bahasa alami (
+\shape italic
+natural language processing
+\shape default
+), dan pengenalan audio (
+\shape italic
+audio recognition
+\shape default
+) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "lecun2015deep"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Pada penelitian ini kami akan menggunakan beberapa arsitektur pembelajaran
+ dalam.
+ Dan pada penelitian ini pula kami mengusulkan suatu model pembelajaran
+ dalam agar dapat digunakan untuk pengenalan emosi berdasarkan modalitas
+ ekspresi wajah, intonasi suara, dan ucapan tekstual yang menyertainya.
+ Harapannya adalah dengan penelitian ini kami dapat membantu mengarahkan
+ penelitian selanjutnya untuk memperluas kemampuan BIA serta menjembatani
+ kesenjangan antara hasil penelitian yang telah ada sebelumnya dengan kendala
+ yang ada di dunia bisnis dan industri.
+\end_layout
+
+\begin_layout Section
+Perumusan Masalah 
+\end_layout
+
+\begin_layout Standard
+Dengan latar belakang dan acuan berfikir diatas, bahwa akan banyak data
+ yang dapat dibangkitkan oleh sensor diantaranya data audio video.
+ Dan salah satu manfaat jika data-data tersebut dapat dianalisis adalah
+ dapat memberikan banyak pengertian dan pengetahuan terhadap emosi manusia
+ yang terpancar saat berkomunikasi.
+ Salah satu cabang dari pembelajaran mesin yang telah banyak diterapkan
+ dengan baik di berbagai bidang pada masalah pengenalan pola (
+\shape italic
+pattern recognition
+\shape default
+) adalah pembelajaran dalam.
+ Sehingga pada penelitian ini kami mengusulkan suatu model pengenalan emosi
+ berdasarkan modalitas ekspresi wajah, intonasi suara, dan ucapan tekstual
+ yang menyertainya dengan menggunakan arsitektur pembelajaran dalam.
+\end_layout
+
+\begin_layout Section
+Tujuan Penelitian
+\end_layout
+
+\begin_layout Standard
+Tujuan dari penelitian ini adalah mengembangkan sebuah model pembelajaran
+ dalam untuk pengenalan emosi berdasarkan pada ekspresi wajah, intonasi
+ suara, dan ucapan tekstual.
+\end_layout
+
+\begin_layout Section
+Manfaat Penelitian
+\end_layout
+
+\begin_layout Standard
+Dengan penelitian ini kami berharap dapat memberikan sumbangan pengetahuan
+ mengenai pengenalan emosi dari data audio video dan menjadi bagian dari
+ analitis audio video pada inteligensi bisnis.
+ Dengan penelitian ini pula kami mencoba membuka penelitian lanjutan mengenai
+ perlombongan emosi (
+\shape italic
+emotion mining
+\shape default
+) pada data audio video yang kaitannya untuk memperbaiki pemahaman kita
+ terhadap emosi manusia dalam upaya meningkatkan kemampuan organisasi untuk
+ mencapai tujuannya.
+\end_layout
+
+\begin_layout Section
+Ruang Lingkup Penelitian
+\end_layout
+
+\begin_layout Standard
+Penelitian ini membatasi ruang lingkupnya dengan menggunakan teknik pembelajaran
+ dalam untuk mengenali emosi manusia berdasarkan ekspresi wajah, intonasi
+ suara, dan ucapan tekstual dengan menggunakan dataset yang berisi kumpulan
+ data audio video berbahasa inggris.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+TINJAUAN PUSTAKA
+\end_layout
+
+\begin_layout Section
+Pengenalan Emosi
+\end_layout
+
+\begin_layout Standard
+Beberapa penelitian terkait kasifikasi emosi dapat dibagi menjadi empat,
+ yaitu: klasifikasi emosi dari wajah, klasifikasi emosi dari ucapan, klasifikasi
+ emosi dari teks, dan klasifikasi emosi hibrida menggunakan gabungan diantara
+ wajah, ucapan, dan teks.
+\end_layout
+
+\begin_layout Subsection*
+Pengenalan emosi dari suara
+\end_layout
+
+\begin_layout Standard
+Artikel dari 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Meng2007"
+
+\end_inset
+
+ memperlihatkan pengklasifikasian emosi suara yang berkerja sebagai kombinasi
+ dari sistem pengenalan suara otomatis.
+ Algoritmanya menggunakan 
+\shape italic
+Hidden Markov Models 
+\shape default
+(HMM) sebagai pengklasifikasi.
+ Fitur yang dipertimbangkan untuk percobaannya terdiri dari 39 MFCC ditambah
+ nada, intensitas dan tiga forman, termasuk beberapa turunan statistiknya.
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Le2013"
+
+\end_inset
+
+ menggunakan 
+\shape italic
+Deep Belief Networks 
+\shape default
+(DBN) untuk memodelkan hubungan kompleks dan nonlinear antara fitur-fitur
+ tingkat rendah.
+ Ia telah mengusulkan sederetan pengklasifikasi hibrida terdiri dari 
+\shape italic
+Hidden Markov Models 
+\shape default
+dan 
+\shape italic
+Deep Belief Networks
+\shape default
+.
+ Karyanya menghasilkan bahwa parameter model yang optimal untuk emosi berbeda
+ dengan parameter pada pengenalan suara dalam beberapa aspek penting.
+ Dibandingkan dengan suara, pengenalan emosi diperlukan 
+\shape italic
+learning rate
+\shape default
+ lebih kecil, lebih besar 
+\shape italic
+input window
+\shape default
+ pada DBN, dan lebih sedikit HMM 
+\shape italic
+states
+\shape default
+.
+ Pengamatannya menunjukan bahwa emosi terletak pada ruang keputusan yang
+ berbeda, jangka waktu 
+\shape italic
+time window
+\shape default
+ lebih lama, dan kurang dipahami dinamika temporalnya dibandingkan dengan
+ suara.
+\end_layout
+
+\begin_layout Subsection*
+Pengenalan emosi dari teks
+\end_layout
+
+\begin_layout Standard
+Artikel dari 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Mishne2005"
+
+\end_inset
+
+ menghadirkan pekerjaan awal pada pengkalsifikasian teks blog sesuai dengan
+ suasana hati penulisnya selama penulisan.
+ Ia mempertimbangkan fitur tekstual berbeda, seperti jumlah frekuensi kata,
+ polaritas emosional tulisan, panjang tulisan, 
+\shape italic
+Point-wise Mutual Information
+\shape default
+ (PMI) memberikan bobot numerik untuk kata kunci berdasarkan hubungannya
+ dengan suasana hati tertentu, penekanan kata, dan simbol-simbol khusus
+ serperti emoticon dan tanda baca.
+ Pengkalsifikasi yang digunakan dalam karyanya adalah 
+\shape italic
+Support Vector Machine
+\shape default
+ (SVM).
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Ezzat2012"
+
+\end_inset
+
+ menyajikan perlombongan teks (
+\shape italic
+text mining
+\shape default
+) terhadap transkripsi rekaman audio untuk menemukan emosi pembicara.
+ Dalam karyanya, ia menggunakan metode seleksi fitur yang berbeda.
+ Metode terbimbing dan tak terbimbing untuk kasifikasi teks.
+ Bukti menunjukan keefektifan metode terbimbing untuk klasifikasi teks.
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Hoyo2009"
+
+\end_inset
+
+ menjelaskan tiga pendekatan yang berbeda: pendekatan statistik, pendekatan
+ semantik, dan pendekatan statistik-semantik hibrida.
+ Nilai 
+\shape italic
+Term Frequency-Inverse Document Frequency 
+\shape default
+(TF-IDF) dari istilah dalam teks digunakan sebagai fitur dalam pendekatan
+ statistik.
+ Sistem statistik-semantik hibrida mencapai tingkat akurasi yang lebih besar
+ dari pendekatan statistik ataupun semantik.
+\end_layout
+
+\begin_layout Subsection*
+Pengenalan emosi dari wajah
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Liu2013"
+
+\end_inset
+
+ membangun arsitektur yang dalam, 
+\shape italic
+Action Unit aware Deep Network 
+\shape default
+(AUDN), untuk pengenalan ekspresi wajah dengan memanfaatkan pengetahuan
+ 
+\shape italic
+prior
+\shape default
+ bahwa variasi kemunculan yang disebabkan oleh ekspresi dapat diurai menjadi
+ sejumlah 
+\shape italic
+Action Unit
+\shape default
+ (AU) lokal.
+ AUDN yang diusulkan terdiri dari tiga modul secara berurutan, yaitu: Modul
+ pertama, lapisan konvolusi dan lapisan 
+\shape italic
+max-pooling
+\shape default
+, yang bertujuan menghasilkan representasi lebih lengkap.
+ Modul kedua lapisan reseptif AU dirancang untuk mencari subset pada representas
+i lengkapnya.
+ Modul terakhir, 
+\shape italic
+multilayer Restricted Boltzmann Machines
+\shape default
+ (RBM) yang dimanfaatkan untuk mempelajari fitur hirarkis, yang kemudian
+ menggabungkannya menjadi pengenalan ekspresi akhir.
+\end_layout
+
+\begin_layout Standard
+Artikel dari 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Liu2014a"
+
+\end_inset
+
+ menyajikan bentuk 
+\shape italic
+Boosted Deep Belief Networks
+\shape default
+ (BDBN) pada tahap pelatihan.
+ BDBN terdiri dari dua proses belajar yang berhubungan: proses 
+\shape italic
+bottom-up unsupervised feature learning 
+\shape default
+(BU-UFL) yang belajar representasi fitur hirarkis pada data input yang diberikan
+ dan proses 
+\shape italic
+boosted top-down suppervised feature strengthen
+\shape default
+ (BTD-SFS) yang memurnikan fitur-fiture gabungan tersebut dengan cara terbimbing.
+\end_layout
+
+\begin_layout Subsection*
+Pendekatan hibrida
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Ngiam2011"
+
+\end_inset
+
+ menyajikan serangkaian tugas untuk pembelajaran multimodal dan menunjukkan
+ bagaimana melatih 
+\shape italic
+deep networks
+\shape default
+ yang belajar fitur untuk mengatasi tugas tersebut.
+ Secara khusus, ia menunjukkan pembelajaran fitur modalitas bersilang, dimana
+ fitur yang lebih baik untuk satu modalitas (misalnya video) dapat belajar
+ jika beberapa modalitas (misalnya audio dan video) yang hadir pada saat
+ pembelajaran fitur.
+ Ia juga menunjukan bagaimana cara belajar representasi bersama antara modalitas
+ dan mengevaluasinya pada tugas yang unik, dimana pengkasifikasi dilatih
+ hanya dengan data audio tapi diuji hanya dengan data video saja dan sebaliknya.
+ Ia menggunakan data set CUAVE dan AVletters untuk memvalidasi klasifikasi
+ ucapan audio visual.
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Kim2013"
+
+\end_inset
+
+ menunjukkan efektifitas 
+\shape italic
+Deep Belief Network
+\shape default
+ (DBN) untuk membangkitkan fitur emosi multimodal.
+ DBN menangkap dependensi fitur non-linear dari fitur-fitur audio visual
+ yang sekaligus mengurangi dimensi ruang fitur.
+ Model generatifnya telah diterapkan pada mengolahan suara dan bahasa, demikian
+ juga pada emosi.
+ Dalam pengenalan emosi, 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Brueckner2012"
+
+\end_inset
+
+ menemukan bahwa penggunaan 
+\shape italic
+Restricted Boltzmann Machine
+\shape default
+ (RBM) sebelum pada dua lapisan 
+\shape italic
+nerual network
+\shape default
+ dengan 
+\shape italic
+fine-tunning 
+\shape default
+dapat secara signifikan meningkatkan akurasi klasifikasi pada tantangan
+ klasifikasi emosi Inter-speech 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Schuller2009"
+
+\end_inset
+
+.
+ Karya oleh 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Stuhlsatz2011"
+
+\end_inset
+
+ mengambil pendekatan berbeda untuk belajar fitur akustik dalam pengenalan
+ emosi suara menggunakan 
+\shape italic
+Generalize Discimanant Analysis 
+\shape default
+(GerDa) berdasarkan 
+\shape italic
+Deep Neural Netowrks
+\shape default
+ (DNN).
+\end_layout
+
+\begin_layout Standard
+Artikel dari 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Chuang2004a"
+
+\end_inset
+
+ menyajikan sebuah pendekatan untuk pengenalan emosi dari sinyal ucapan
+ dan konten tekstual.
+ Dalam analisis sinyal suaranya, beberapa fitur akustik diambil.
+ Ia menggunakan
+\shape italic
+ Principle Component Analysis 
+\shape default
+(PCA) untuk menseleksi fitur sebagai representasi diskriminatif.
+ 
+\shape italic
+Support Vector Machines 
+\shape default
+(SVM) diadopsi untuk menglasifikasikan kondisi emosional.
+ Dalam anaisis teks, semua kata kunci emosional dan kata-kata modifikasi
+ didefinisikan secara manual.
+ Tingkat intensitas emosi kata kunci emosional dan kata-kata modifikasi
+ diperkirakan berdasarkan pada korpus emosi yang dikumpulkan.
+ Keadaan emosional akhir ditentukan berdasarkan keluaran emosi dari analisis
+ akustik dan tekstual.
+\end_layout
+
+\begin_layout Standard
+Pada artikelnya 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Bhaskar2015"
+
+\end_inset
+
+ mengusulkan pendekatan untuk klasifikasi percakapan audio berdasarkan baik
+ suara maupun teks.
+ Kebaruan dalam pendekatan ini pilihan fitur dan pembangkitan sebuah vektor
+ fitur tunggal untuk klasifikasi.
+ Karya ini menggunakan metode standar seperti 
+\shape italic
+Natural Language Processing
+\shape default
+ (NLP), WordNet Affect, SentiWordNet, dan 
+\shape italic
+Support Vector Machines
+\shape default
+ (SVM).
+ Ia menggunakan data set Semval-2007 dan eNTERFACE'05 EMOTION.
+\end_layout
+
+\begin_layout Section
+Representasi
+\end_layout
+
+\begin_layout Standard
+Representasi, fitur, atau ciri merupakan ....
+\end_layout
+
+\begin_layout Subsection
+Reprensentasi pada citra
+\end_layout
+
+\begin_layout Standard
+Citra merupakan ....
+\end_layout
+
+\begin_layout Subsection
+Representasi pada suara
+\end_layout
+
+\begin_layout Standard
+Suara meruapakan ...
+\end_layout
+
+\begin_layout Subsection
+Representasi pada teks
+\end_layout
+
+\begin_layout Standard
+Representasi teks sangat penting pada banyak penerapan, yang paling umum
+ digunakan adalah secara 
+\shape italic
+local representation: n-grams, bag-of-words, 1-of-n coding
+\shape default
+, dan secara 
+\shape italic
+continuous representations
+\shape default
+: 
+\shape italic
+latent semantic analysis, latent dirichlet allocation, distributed representatio
+ns.
+\end_layout
+
+\begin_layout Section
+
+\shape italic
+Artificial Neural Networks
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Artificial neural networks
+\shape default
+ (ANN) adalah sebuah model pembelajaran mesin (
+\shape italic
+machine learning
+\shape default
+)
+\shape italic
+ 
+\shape default
+yang terinspirasi oleh otak hewan 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hubel1968receptive"
+
+\end_inset
+
+ dengan harapan ia dapat digunakan untuk kepentingan manusia dalam menyelesaikan
+ beberapa permasalahan.
+ Meskipun ANN terinspirasi dari jaringan neuron biologis, ANN pada kenyataannya
+ secara biologi jauh sekali.
+ ANN merupakan bentuk yang sangat sederhana dari apa yang terjadi pada otak
+ hewan 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "jain1996artificial"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+ANN pertama kali diperkenalkan pada tahun 1943 oleh Warren McCulloch and
+ Walter Pitts, mereka bermaksud membuat model matematika dari sebuah otak
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "mcculloch1943logical"
+
+\end_inset
+
+.
+ Pada 1949 Donald Hebb memperkenalkan apa yang disebut sebagai 
+\shape italic
+Hebbian learning
+\shape default
+, biasanya ditujukan dengan sebuah slogan 
+\begin_inset Quotes eld
+\end_inset
+
+Neuron that fire together wire thogether
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hebb1949organisation"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Sebuah ketertarikan meningkat pada bidang ini setelah Frank Rosenblatt memperken
+alkan 
+\begin_inset Quotes eld
+\end_inset
+
+
+\shape italic
+perceptron
+\shape default
+
+\begin_inset Quotes erd
+\end_inset
+
+ pada 1958.
+ Ia menunjukan bagaimana sebuah model matematika yang sederhana dapat digunakan
+ untuk melatih dua lapisan jaringan 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "rosenblatt1958perceptron"
+
+\end_inset
+
+.
+ Namun, Seymour Papert dan Marvin Minsky membuka beberapa keterbatasan dari
+ ANN, membuktikan bahwa fungsi eksklusif OR tidak bisa dipelajari oleh 
+\shape italic
+perceptron
+\shape default
+, bersamaan dengan itu mereka mendemonstrasikan bahwa tidak layak melatih
+ ANN yang besar, dikarenakan keterbatasan sumber daya komputer saat itu
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "minsky1969perceptrons"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Setelah kekecewaan ini, pada penelitian ANN, ketertarikan meningkat kembali
+ pada akhir tahun 70-an dan pada awal 80-an karena penemuan algoritma 
+\shape italic
+backpropagation
+\shape default
+ yang dapat memecahkan masalah eksklusif OR dan karena telah majunya arsitektur
+ komputer saat itu.
+ Pada tahun 90-an metode pembelajaran mesin yang lain seperti 
+\shape italic
+Support Vector Machines
+\shape default
+ (SVM) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "cortes1995support"
+
+\end_inset
+
+ menjadi populer.
+ SVM memiliki penjelasan teori yang jelas dan menyelesaikan masalah secara
+ lebih baik dari ANN.
+ Sejak tahun 2000-an, ketertarikan terhadap ANN kembali meningkat dikarenakan
+ kemajuan pada 
+\shape italic
+Convolutional Neural Networks
+\shape default
+ (CNN, atau LeNet setelah 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "lecun1998gradient"
+
+\end_inset
+
+ memperbaiki disain awal yang dibuat oleh 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "fukushima1988neocognitron"
+
+\end_inset
+
+), 
+\shape italic
+Unsupervised Feature Learning, Stacked AutoEncoder
+\shape default
+ dan 
+\shape italic
+Deep Belief Networks 
+\shape default
+yang diusulkan oleh Geoffrey Hinton di tahun 2006 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hinton2006fast"
+
+\end_inset
+
+.
+ Berikut merupakan beberapa tipe ANN terkait penelitian ini yang akan digunakan
+ sebagai pengklasifikasi.
+\end_layout
+
+\begin_layout Section
+
+\shape italic
+Convolutional Neural Networks
+\end_layout
+
+\begin_layout Subsection
+
+\shape italic
+Multilayer Perceptrons 
+\shape default
+(MLP)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Multilayer Perceptrons
+\shape default
+ (MLP), salah satu tipe ANN,
+\shape italic
+ 
+\shape default
+juga sering disebut 
+\shape italic
+feedforward neural networks
+\shape default
+ atau 
+\shape italic
+deep feedforward networks
+\shape default
+, adalah model pembelajaran dalam klasik.
+ Tujuan dari
+\shape italic
+ 
+\shape default
+MLP adalah untuk memperkirakan fungsi 
+\begin_inset Formula $f^{*}$
+\end_inset
+
+.
+ Sebagai contoh, untuk sebuah pengkalasifikasi, 
+\shape italic
+
+\begin_inset Formula $y=f^{*}(\boldsymbol{x})$
+\end_inset
+
+
+\shape default
+ memetakan sebuah input vektor 
+\series bold
+\shape italic
+x 
+\series default
+\shape default
+terhadap sebuah kategori 
+\shape italic
+y
+\shape default
+.
+ Sebuah MLP mendefinisikan sebuah fungsi pemetaan 
+\shape italic
+
+\begin_inset Formula $y=f(\mathbf{\boldsymbol{x}},\boldsymbol{\theta})$
+\end_inset
+
+
+\shape default
+ dan belajar dari nilai parameter 
+\series bold
+\shape italic
+
+\begin_inset Formula $\theta$
+\end_inset
+
+
+\series default
+\shape default
+ dari hasil pada aproksimasi terbaik fungsi tersebut 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "goodfellow2016deep"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+MLP dengan 
+\shape italic
+hidden layer
+\shape default
+ menurut teorema 
+\shape italic
+universal approximation
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hornik1989multilayer"
+
+\end_inset
+
+ menyediakan sebuah kerangka kerja hampiran universal.
+ Teorema tersebut menyatakan MLP dengan sebuah lapisan keluaran linear dan
+ setidaknya satu 
+\shape italic
+hidden
+\shape default
+ 
+\shape italic
+layer 
+\shape default
+dengan fungsi aktifasi skuas (
+\shape italic
+squashing
+\shape default
+, seperti fungsi aktifasi logistik sigmoid) dapat menghampiri setiap fungsi
+ 
+\shape italic
+Borel measurable
+\shape default
+ dari satu dimensi ruang terhingga kepada yang lain dengan sejumlah galat
+ yang diharapkan, jika disediakan jaringan 
+\shape italic
+hidden unit
+\shape default
+s yang cukup.
+\end_layout
+
+\begin_layout Standard
+Struktur dari MLP dapat dilihat sebagai sebuah graf.
+ Pada konteks ini simpulnya disebut simpul atau neuron dan tepiannya disebut
+ koneksi sinapsis.
+ Karakteristik penting MLP bahwa setiap koneksi sinapsis memiliki kekuatan
+ masing-masing (disebut bobot) yang disesuaikan saat proses pelatihan.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/ann1.png
+	lyxscale 40
+	width 60col%
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Representasi dari MLP dengan dua 
+\shape italic
+hidden layer.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Seperti terlihat pada Gambar 1, jaringannya terstruktur pada lapisan-lapisan
+ (
+\shape italic
+layers
+\shape default
+), dengan koneksi antara simpulnya.
+ Secara umum simpul didalam lapisan yang sama tidak terhubung dengan simpul
+ lainnya pada lapisan yang sama, tetapi terhubung pada simpul-simpul pada
+ lapisan setelahnya.
+\end_layout
+
+\begin_layout Standard
+Lapisan-lapisan tersebut dapat dikelompokan menjadi, 
+\shape italic
+input layer
+\shape default
+ yang menerima masukan data yang diberikan, 
+\shape italic
+hidden layer 
+\shape default
+yang mendefinisikan sebuah representasi (fitur) dari data yang diberikan
+ oleh 
+\shape italic
+input layer
+\shape default
+, dan 
+\shape italic
+output layer
+\shape default
+ merupakan keluaran setelah dilewatkan pada jaringan.
+\end_layout
+
+\begin_layout Standard
+Data masukan ditransformasikan kedalam sebuah vektor bilangan ril dan disampaika
+n pada jaringan.
+ Setelah data dilewatkan maka neuron menjadi teraktifasi.
+ Secara matematika kondisi ini dapat dimodelkan sebagai berikut:
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Formula 
+\begin{equation}
+y_{i}^{(l+1)}=\sigma\left(\underset{j}{\sum}w_{ij}y_{j}^{(l)}+b_{i}\right)
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Disini, 
+\begin_inset Formula $b_{1}$
+\end_inset
+
+ adalah bias yang diasosiasikan dengan unit dan 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ mengacu pada fungsi aktifasi.
+ Fungsi aktifasi memiliki peran yang penting pada jaringan, ia digunakan
+ untuk membatasi kisaran nilai yang dihasilkan.
+ Biasanya fungsi aktifasi yang digunakan dari keluarga sigmoid (seperti
+ logistic sigmoid dan tanh).
+\end_layout
+
+\begin_layout Subsection*
+
+\shape italic
+Convolutional Neural Networks 
+\shape default
+(CNN)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Convolutional Neural Networks
+\shape default
+ (CNN, ConvNet) adalah sebuah ANN dan merupakan varian dari MLP yang didisain
+ untuk mengenali pola visual langsung dari piksel citra dengan meminimalkan
+ praproses 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "lecun1998gradient"
+
+\end_inset
+
+.
+ Nama 
+\shape italic
+convolutional 
+\shape default
+mengindikasikan bahwa jaringan tersebut mengguanakan operasi matematika
+ yang disebut 
+\shape italic
+convolution,
+\shape default
+ selain itu CNN juga menggukanan operasi yang disebut 
+\shape italic
+pooling
+\shape default
+ (
+\shape italic
+subsampling
+\shape default
+).
+ Sehingga pada dasarnya CNN terdiri dari satu atau beberapa 
+\shape italic
+convolutional layer
+\shape default
+ dan 
+\shape italic
+pooling layer
+\shape default
+ yang ditumpuk lalu diteruskan dengan satu atau beberapa 
+\shape italic
+fully-connected layer 
+\shape default
+seperti pada MLP.
+
+\shape italic
+ 
+\shape default
+Gambar 2 merupakan contoh sebuah arsitektur CNN.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/lenet5.png
+	lyxscale 50
+	width 80col%
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Arsitektur LeNet-5 adalah ANN bertipe CNN.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+\shape italic
+Stacked Convolutional AutoEncoder
+\end_layout
+
+\begin_layout Subsection
+
+\shape italic
+AutoEncoder 
+\shape default
+(AE)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Autoencoder 
+\shape default
+(AE) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "bengio2009learning"
+
+\end_inset
+
+ adalah sebuah ANN yang digunakan untuk pembelajaran tak terbimbing secara
+ efisien 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "liou2014autoencoder"
+
+\end_inset
+
+.
+ Tujuan dari 
+\shape italic
+autoencoder
+\shape default
+ adalah untuk belajar sebuah 
+\shape italic
+representation 
+\shape default
+(
+\shape italic
+encoding
+\shape default
+) dari sehimpunan data.
+ Secara aritektur, bentuk sederhana dari sebuah 
+\shape italic
+autoencoder
+\shape default
+ adalah sebuah 
+\shape italic
+feedforward
+\shape default
+, 
+\shape italic
+non-recurrent neural network
+\shape default
+ sangat mirip dengan MLP, memiliki satu 
+\shape italic
+input layer
+\shape default
+, satu
+\shape italic
+ output layer
+\shape default
+, tetapi dengan jumlah simpul 
+\shape italic
+output layer 
+\shape default
+sama seperti pada 
+\shape italic
+input layer
+\shape default
+-nya, dengan maksud merekonstruksi inputnya sendiri (daripada memprediksi
+ nilai target
+\series bold
+\shape italic
+ Y
+\series default
+\shape default
+ dengan input 
+\series bold
+\shape italic
+X
+\series default
+\shape default
+) dan selalu terdiri dari dua bagian, bagian 
+\shape italic
+encoder 
+\shape default
+dan decoder
+\shape italic
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/Autoencoder_structure.png
+	lyxscale 30
+	width 50col%
+	BoundingBox 30bp 30bp 640bp 470bp
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Sturktur sebuah 
+\shape italic
+autoencoder
+\shape default
+ dengan tiga 
+\shape italic
+fully-connected hidden layer.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\shape italic
+Stacked AutoEncoder
+\shape default
+ (SAE)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Stacked AutoEncoder 
+\shape default
+(SAE) adalah ...
+\end_layout
+
+\begin_layout Subsection
+
+\shape italic
+Stacked Convolutional AutoEncoder
+\shape default
+ (SCAE)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Stacked Convolutional AutoEncoder 
+\shape default
+(SCAE) adalah ...
+\end_layout
+
+\begin_layout Section
+
+\shape italic
+Convolutional Deep Belief Networks
+\end_layout
+
+\begin_layout Subsection
+
+\shape italic
+Restricted Boltzman Machine 
+\shape default
+(RBM)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Restricted Boltzmann Machine 
+\shape default
+(RBM) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "smolensky1986information"
+
+\end_inset
+
+ adalah ANN yang bersifat stokastik generatif yang dapat belajar dari sebuah
+ distribusi probabilitas melalui sejumlah set inputan.
+ RBM dapat dilatih dengan cara terbimbing ataupun tidak, bergantung pada
+ kasusnya.
+ RBM merupakan varian dari algoritma 
+\shape italic
+Boltzmann machines, 
+\shape default
+dengan dibatasi (
+\shape italic
+resticted
+\shape default
+)
+\shape italic
+ 
+\shape default
+bahwa pada setiap layernya tidak ada yang terhubung satu sama lainnya.
+ Beberapa aplikasi dari RBM diantaranya pada 
+\shape italic
+dimensional reduction
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hinton2006reducing"
+
+\end_inset
+
+
+\shape italic
+, classification
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "larochelle2008classification"
+
+\end_inset
+
+
+\shape italic
+, collaborative filtering
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "salakhutdinov2007restricted"
+
+\end_inset
+
+
+\shape italic
+, feature learning
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "coates2010analysis"
+
+\end_inset
+
+, dan 
+\shape italic
+topic modeling 
+\shape default
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hinton2009replicated"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/rbm1.png
+	lyxscale 60
+	width 45col%
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+RBM
+\shape italic
+ 
+\shape default
+dengan
+\shape italic
+ 
+\shape default
+5 
+\shape italic
+visible unit 
+\shape default
+dan 4 
+\shape italic
+hidden unit.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\shape italic
+Deep Belief Networks 
+\shape default
+(DBN)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Deep Belief Network
+\shape default
+ (DBN) atau 
+\shape italic
+Stacked Restricted Boltzmann Machine 
+\shape default
+(SRBM) adalah sebuah tipe ANN yang bersifat generatif probabilistik yang
+ tersususn dari beberapa 
+\shape italic
+layer
+\shape default
+ 
+\shape italic
+hidden unit
+\shape default
+, dengan adanya hubungan antara 
+\shape italic
+layer
+\shape default
+-nya tetapi tidak antar 
+\shape italic
+unit
+\shape default
+ dalam satu 
+\shape italic
+layer
+\shape default
+.
+ Jika dilatih pada sejumlah data secara tak terbimbing, DBN dapat merekonstruksi
+ secara probabilistik 
+\shape italic
+input-
+\shape default
+nya.
+ 
+\shape italic
+Layer-
+\shape default
+nya bekerja sebagai detektor fitur pada masukannya 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hinton2009deep"
+
+\end_inset
+
+.
+ Setelah tahap pembelajaran ini, DBN selanjutnya dapat dilatih secara terbimbing
+ untuk melakukan klasifikasi 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hinton2006fast"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+DBN dapat dilihat sebagai komposisi sederhana, jaringan tak terbimbing seperti
+ RBM atau 
+\shape italic
+autoencoder
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "bengio2007greedy"
+
+\end_inset
+
+, dimana setiap 
+\shape italic
+sub-network
+\shape default
+ pada 
+\shape italic
+hidden layer
+\shape default
+ berlaku sebagai 
+\shape italic
+visible layer
+\shape default
+ untuk 
+\shape italic
+layer
+\shape default
+ berikutnya.
+ Ini juga mengarah pada, prosedur pelatihan tak terbimbing 
+\shape italic
+layer
+\shape default
+ demi 
+\shape italic
+layer
+\shape default
+, dimana diterapkan 
+\shape italic
+contrastive divergence
+\shape default
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hinton2002training"
+
+\end_inset
+
+ untuk setiap 
+\shape italic
+sub-network
+\shape default
+ pada gilirannya, dimulai dari pasangan 
+\shape italic
+layer
+\shape default
+ terendah.
+ Pada pengamatannya Yee-Whye Teh 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "hinton2006fast"
+
+\end_inset
+
+, bahwa DBN dapat dilatih secara 
+\shape italic
+greedy
+\shape default
+, satu 
+\shape italic
+layer
+\shape default
+ pada satu waktu, membuatnya sebagai algoritma pembelajaran dalam pertama
+ yang efektif 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "bengio2009learning"
+
+\end_inset
+
+.
+ Gambar 4 berikut memperlihatkan arsitekur sebuah DBN.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/dbn1.png
+	lyxscale 40
+	width 60col%
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+DBN
+\shape italic
+ 
+\shape default
+dengan satu 
+\shape italic
+visible layer
+\shape default
+ dan tiga 
+\shape italic
+hidden layer
+\shape default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+\shape italic
+Convolutional Deep Belief Networks 
+\shape default
+(CDBN)
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Convolutional Deep Belief Networks 
+\shape default
+(CDBN) adalah sebuah tipe ANN yang tersusun dari beberapa lapisan 
+\shape italic
+Convolutional Resctricted Boltzmann Machines 
+\shape default
+(CRBM) yang ditumpuk bersama 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "lee2009convolutional"
+
+\end_inset
+
+.
+ CDBN memiliki struktur yang sangat mirip dengan 
+\shape italic
+Convolutional Neural Netowrks
+\shape default
+ (CNN) dan dilatih mirip dengan DBN.
+ Sehingga CDBN menggunakan struktur citra 2D, seperti yang dilakukan CNN,
+ dan mengguakan 
+\shape italic
+pre-training
+\shape default
+ seperti DBN.
+ CDBN menyediakan struktur generik yang dapat digunakan secara efektif pada
+ tugas pengolahan citra dan pengenalan objek 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "lee2009unsupervised"
+
+\end_inset
+
+.
+ CDBN menggunakan teknik 
+\shape italic
+probabilistic max-pooling
+\shape default
+ untuk mereduksi dimensi pada 
+\shape italic
+layer 
+\shape default
+yang lebih tinggi pada jaringan
+\shape italic
+.
+ 
+\shape default
+Pelatihan pada jaringannya melibatkan tahap 
+\shape italic
+pre-training
+\shape default
+ yang diselesaikan dengan cara 
+\shape italic
+greedy layer-wise
+\shape default
+ seperti pada DBN.
+ Bergantung pada, apakah jaringannya digunakan untuk tugas diskriminasi
+ atau generatif.
+ Proses selanjutnya adalah 
+\shape italic
+fine tunned
+\shape default
+ atau 
+\shape italic
+training
+\shape default
+ baik dengan algoritma 
+\shape italic
+back-propagation 
+\shape default
+atau 
+\shape italic
+up-down
+\shape default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/cdbn3-edit.pdf
+	lyxscale 60
+	width 80col%
+	BoundingBox 0bp 0bp 720bp 500bp
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Ilustrasi sebuah CDBN.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+METODE
+\end_layout
+
+\begin_layout Section
+Tahap Penelitian
+\end_layout
+
+\begin_layout Standard
+Penelitian ini akan terdiri dari tiga tahapan, terlihat pada Gambar 6, yaitu:
+ 1) persiapan, 2) praproses, 3) proses pembelajaran, 4) proses pengujian.
+ Tahap persiapan terdiri dari penyusunan data modalitas yang terdiri dari
+ tiga jenis data, video, audio, dan teks.
+ Masing-masing jenis data tersebut dibagi menjadi tiga bagian, sebagai data
+ pelatihan, validasi, dan pengujian.
+ Pada tahap ini juga disusun algoritma pengklasifikasi dan kemudian diterapkan
+ untuk pengenalan tulisan tangan pada data set MNIST 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "lecun1998mnist"
+
+\end_inset
+
+.
+ Tahap selanjutnya adalah praproses.
+ Pada tahap ini dilakukan ekstrasi fitur pada masing-masing data tersebut.
+ Selanjutnya yaitu tahap pembelajaran.
+ Di tahap ini data tersebut kemudian dikenakan proses pembelajaran menggunakan
+ beberapa pengklasifikasi sebagai pembanding, seperti CDBN, CSAE, atau CNN
+ dan dengan WordNet Affect (WNA) 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "strapparava2004wordnet"
+
+\end_inset
+
+ pada data teks.
+ Keluaran pada setiap pengklasifikasi tersebut kemudian dijadikan sebagai
+ fitur masukan untuk pengklasifikasi fitur gabungan dengan fungsi Softmax.
+ Dan tahap terakhir adalah tahap pengujian pengklasifikasi tersebut terhadap
+ data pengujian.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/skema_metode.eps
+	lyxscale 50
+	width 100col%
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Skema tahapan penelitian.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Alat dan Data
+\end_layout
+
+\begin_layout Standard
+Banyak data set yang tersedia secara daring dan untuk karya ini akan digunakan
+ dua diantaranya.
+ Pertama adalah sebuah data audio video yang diberi nama eNTERFACE'05 EMOTION
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://enterface.net/enterface05/
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Martin2006"
+
+\end_inset
+
+ sedangkan yang kedua adalah 
+\shape italic
+Interactive Emotional Dyadic Motion Capture
+\shape default
+ (IEMOCAP)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://sail.usc.edu/iemocap/
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "Busso2008"
+
+\end_inset
+
+.
+ Pada kedua data set tersebut, aktor melakukan adegan improvisasi emosional
+ dari skenario dan naskah yang diberikan.
+ Keduanya dapat digunakan sebagai data set referensi untuk pengujian dan
+ evaluasi algoritma pengenalan emosi pada video, audio, ataupun audio video.
+ Adapun alat yang digunakan adalah sebuah komputer laptop dengan prosesor
+ Intel Core i3 dan RAM 8 Gb yang bersistem operasi Linux Fedora 24.
+ Sedangkan perangkat lunak yang digunakan adalah Lyx (2.2) 
+\shape italic
+Document processor
+\shape default
+, KBibTex (0.6) 
+\shape italic
+Bibtex editor
+\shape default
+, LibreOffice (5.1)
+\shape italic
+ Office suite, 
+\shape default
+IPython Notebook (4.2) 
+\shape italic
+Interactive python web application
+\shape default
+ dan Spyder IDE (3.1) 
+\shape italic
+Scientific python development environment
+\shape default
+.
+ Dalam implementasinya, penelitian ini menggunakan Python (2.7)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.python.org/
+\end_layout
+
+\end_inset
+
+
+\shape italic
+ 
+\shape default
+sebagai bahasa pemrogramannya
+\shape italic
+ 
+\shape default
+dan Neupy (0.5)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://neupy.com/
+\end_layout
+
+\end_inset
+
+ sebagai kerangka kerjanya (
+\shape italic
+framework
+\shape default
+) dan beberapa pustaka seperti Theano (0.8)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://deeplearning.net/software/theano/
+\end_layout
+
+\end_inset
+
+, Scikit-learn (0.18)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://scikit-learn.org/
+\end_layout
+
+\end_inset
+
+, Numpy (1.1)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://numpy.org/
+\end_layout
+
+\end_inset
+
+, Matplotlib (1.5)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://matplotlib.org/
+\end_layout
+
+\end_inset
+
+, NLTK (3.2)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://nltk.org/
+\end_layout
+
+\end_inset
+
+, Praat (5.3)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://fon.hum.uva.nl/praat/
+\end_layout
+
+\end_inset
+
+, dan OpenCV (2.4)
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://opencv.org/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Persiapan
+\end_layout
+
+\begin_layout Standard
+Tahap ini terdiri dari proses penyusunan data dan penyusunan implementasi
+ algoritma pengklasifikasi.
+ Penyusunan data dilakukan dengan mengekstrak data menjadi tiga tipe yaitu,
+ data citra yang diambil dari data video menjadi beberapa bagian citra yang
+ memiliki ekspresi wajah, data suara yang diambil dari data audio yang memiliki
+ intonasi, dan data teks yang diambil dari naskah skenarionya.
+ Selanjutnya ketiga tipe data tersebut dibagi menjadi tiga bagian sesuai
+ fungsinya yaitu, untuk pelatihan 50%, validasi 20%, dan pengujian 30%.
+ Masing-masing data tersebut kemudian diberi 
+\shape italic
+label
+\shape default
+ emosinya dapat berupa 
+\shape italic
+anger, disgust, fear, happiness, sadness, 
+\shape default
+ataupun
+\shape italic
+ surprise.
+\end_layout
+
+\begin_layout Standard
+Penyusunan implementasi algoritma pengklasifikasi pada karya ini menggunakan
+ bahasa pemrograman Python versi 2.7, alasanya karena banyaknya komunitas
+ peneliti pembelajaran mesin (
+\shape italic
+machine learning
+\shape default
+) menggunakannya serta tersedianya pustaka pendukung sehingga memudahkan
+ proses penyusunan, dan tentunya ia menggunakan prinsip kode terbuka (
+\shape italic
+open source
+\shape default
+) yang sangat mendukung kemajuan ilmu pengetahuan dan teknologi.
+ Sebelum pengklasifikasi digunakan dilakukan proses percobaan terlebih dahulu
+ pada data MNIST, untuk pengklasifikasian citra tulisan tangan numerik dari
+ 0 sampai 9, sebagai praevaluasi bagi algoritma yang digunakan.
+\end_layout
+
+\begin_layout Section
+Praproses
+\end_layout
+
+\begin_layout Standard
+Tahap praposes sendiri merupakan proses ekstraksi fitur atau representasi
+ terhadap data citra, suara, dan teks.
+ Proses ekstraksi fitur data citra dilakukan dengan konversi citra menjadi
+ citra abu-abu (
+\shape italic
+gray scaling
+\shape default
+), kemudian pemotongan citra wajah (
+\shape italic
+cropping
+\shape default
+) dengan deteksi wajah Haar Cascades 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "viola2001rapid"
+
+\end_inset
+
+, selanjutnya dilakukan 
+\shape italic
+whitening
+\shape default
+ dan normalisasi sehingga terbentuk sebuah matrik fitur citra, proses tersebut
+ dilakukan dengan bantuan pustaka OpenCV.
+ Proses ekstraksi fitur data suara dilakukan dengan transformasi sinyal
+ audio menjadi bentuk spektrogram dan MFCC (...) dan kemudian dilakukan 
+\shape italic
+whitening
+\shape default
+, karena berada dalam domain frekuensi dan domain ceptstral terhadap waktu
+ sehingga ia dapat direpresentasikan menjadi sebuah matrik fitur suara,
+ proses tersebut dilakukan dengan bantuan pustaka Praat.
+ Untuk data teks digunakan pendekatan 
+\shape italic
+word embedding
+\shape default
+ sehingga setiap kata akan direpresentasikan sebagai sebuah vektor dengan
+ pemodelan seperti word2vec 
+\shape italic
+
+\begin_inset CommandInset citation
+LatexCommand citep
+key "mikolov2013efficient"
+
+\end_inset
+
+
+\shape default
+.
+ Kata merupakan pembentuk kalimat, dalam hal ini teks tersebut merupakan
+ sebuah kalimat yang kemudian direpresentasikan sebagai sebuah matrik fitur
+ teks.
+ Proses tersebut dapat dilakukan dengan bantuan pustaka NLTK.
+ Ketiga matrik fitur tersebut kemudian dapat dikenakan proses pembelajaran
+ dan pengujian baik secara terpisah maupun kombinasi gabungannya.
+ 
+\end_layout
+
+\begin_layout Section
+Pembelajaran
+\end_layout
+
+\begin_layout Standard
+Tahap pembelajaran merupakan tahap inti dari karya ini.
+ Secara sederhana tahap ini merupakan proses penghampiran suatu fungsi non
+ linear terhadap data fitur yang diberikan (
+\shape italic
+universal approximation
+\shape default
+), sehingga fungsi tersebut dapat digunakan sebagai suatu fungsi pembeda
+ (
+\shape italic
+discrimination function
+\shape default
+) yang dapat mengelompokan data menjadi beberapa gugus atau kelas.
+ Proses yang terjadi pada tahap ini adalah pembelajaran terhadap matrik
+ fitur dari data citra, suara, dan teks dengan menggunakan pengklasifikasi
+ ANN tipe CDBN dengan dua atau tiga hidden layer serta tipe lainnya seperti
+ SCAE dan CNN sebagai pembanding.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Arsitektur CNN
+\end_layout
+
+\begin_layout Standard
+Berikut ini merupakan arsitektur jaringan 
+\shape italic
+Convolutional Neural Networks
+\shape default
+ (CNN) yang akan digunakan dengan menggunakan algoritma pembelajaran AdaDelta
+ 
+\begin_inset CommandInset citation
+LatexCommand citep
+key "zeiler2012adadelta"
+
+\end_inset
+
+ yang merupakan sebuah varian dari algoritma 
+\shape italic
+Stochastic Gradient Descent
+\shape default
+ (SGD) yang menggunakan 
+\shape italic
+adaptive learning rate.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="18" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+No
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Masukan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tipe 
+\shape italic
+Layer
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Keluaran
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(1, 28, 28)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Input
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(1, 28, 28)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(1, 28, 28)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Convolution
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(32, 26, 26)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(32, 26, 26)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Batch Norm
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(32, 26, 26)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(32, 26, 26)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Relu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(32, 26, 26)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(32, 26, 26)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Convolution
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 24, 24)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 24, 24)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Batch Norm
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 24, 24)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 24, 24)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Relu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 24, 24)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 24, 24)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Max Pooling
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 12, 12)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(48, 12, 12)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Convolution
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 10, 10)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 10, 10)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Batch Norm
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 10, 10)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 10, 10)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Relu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 10, 10)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 10, 10)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Max Pooling
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 5, 5)
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(64, 5, 5)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Reshape
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1600
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1600
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Linear
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1024
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1024
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Batch Norm
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1024
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+16
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1024
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Relu
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1024
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+17
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1024
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\shape italic
+Softmax
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Arsitektur CNN beserta tipe setiap 
+\shape italic
+layer
+\shape default
+-nya (cont.
+ MNIST,
+\shape italic
+ 
+\shape default
+28x28 piksel)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Secara sederhana 
+\shape italic
+layer
+\shape default
+ pada arsitektur CNN ini terdiri dari 
+\shape italic
+Convolution, Convolution, Subsampling, Convolution, Subsampling, Full connection
+, 
+\shape default
+dan terakhir dengan fungsi Softmax.
+ Sebagai uraian lebih jelas pada masing-masing tipe layer atau proses dan
+ algoritma tersebut dapat dilihat pada laman lampiran.
+\end_layout
+
+\begin_layout Subsection*
+Arsitektur SCAE
+\end_layout
+
+\begin_layout Standard
+Berikut ini merupakan arsitektur jaringan
+\shape italic
+ Stacked (Deep) Convolutional AutoEncoder
+\shape default
+ (SCAE) yang akan digunakan menggunakan algoritma pembelajaran ...
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="25" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+No
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Masukan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tipe 
+\shape italic
+Layer
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Keluaran
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+11
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+13
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+14
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+16
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Arsitektur CDBN
+\end_layout
+
+\begin_layout Standard
+Arsitektur jaringan 
+\shape italic
+Convotutional Deep Belief Netoworks
+\shape default
+ (CDBN) yang akan digunakan adalah sebagai berikut:
+\end_layout
+
+\begin_layout Section
+Pengujian
+\end_layout
+
+\begin_layout Standard
+Setelah melalui proses pembelajaran pada tahap sebelumnya pengklasifikasi,
+ dengan nilai bobot dan bias optimal pada setiap 
+\shape italic
+layer
+\shape default
+-nya, diterapkan pada matrik fitur data uji.
+ Pada dasarnya proses ini sama seperti pada proses pembelajaran, menggunakan
+ algoritma CDBN, SCAE, ataupun CNN, yang membedakan adalah matrik fitur
+ yang digunakan berasal dari data uji citra, suara, dan teks.
+ Tahap ini bertujuan untuk mengetahui seberapa efektif dan akurat pengklasifikas
+i dalam mengklasifikasikan data uji sesuai dengan 
+\shape italic
+label
+\shape default
+ emosinya sekaligus membuktikan secara empiris kemampuan ketiga tipe 
+\shape italic
+convolutional deep learning
+\shape default
+ ini dalam mengklasifikasikan emosi berdasarkan tiga modalitas tersebut.
+\end_layout
+
+\begin_layout Standard
+Setelah melalui proses pengujian dengan data uji, proses terakhir dari tahap
+ ini adalah 
+\shape italic
+live demo
+\shape default
+ yang diambil dari kamera web (
+\shape italic
+webcam
+\shape default
+) secara 
+\shape italic
+live 
+\shape default
+dengan menggunakan sekenario yang sama dengan data set yang digunakan.
+ Proses ini dilakukan untuk mengetahui secara efektif apakah dengan data
+ set yang telah digunakan sudah cukup mewakili jika diterapkan di lapangan
+ dan sebagai masukan untuk penelitian selanjutnya.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+HASIL DAN PEMBAHASAN
+\end_layout
+
+\begin_layout Section
+MNIST
+\end_layout
+
+\begin_layout Standard
+Berikut ini merupakan tabel ...
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Pengklasifikasi
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MNIST
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Face
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MLP
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.9832
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CNN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.9898
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SAE
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SCAE
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.9233
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+DBN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+CDBN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RNN
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tabel akurasi pengklasifikasi terhadap data set
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Pembahasan
+\end_layout
+
+\begin_layout Standard
+Berdasarkan hasil sementara tersebut ...
+\end_layout
+
+\begin_layout Chapter
+RENCANA DAN PERKEMBANGAN
+\end_layout
+
+\begin_layout Section
+JADWAL PENELITIAN
+\end_layout
+
+\begin_layout Standard
+Berikut ini merupakan tabel jadwal penelitian yang direncanakan.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Float table
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Tabular
+<lyxtabular version="3" rows="15" columns="12">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="left" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0pt">
+<row>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+No
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="left" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Aktifitas Penelitian
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Tahun/Bulan
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+2016
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+2017
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Sep
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Okt
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Nov
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Des
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Jan
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Feb
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Mar
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Apr
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Mei
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Jun
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Studi literatur
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Sidang komisi I
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Pendaftaran kolokium
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Kolokium
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Pengembangan dan pengujian
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Evaluasi dan analisis
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Publikasi jurnal
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Tesis dan registrasi seminar
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Sidang komisi II
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Seminar
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+11
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Sidang komisi III
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+Ujian tertutup
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size footnotesize
+x
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\size footnotesize
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Jadwal penelitian
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+PERKEMBANGAN
+\end_layout
+
+\begin_layout Standard
+Perkembangan dari penelitian ini dapat dilihat pada situs web Github
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+https://github.com/einsteinjava/ipbemonets
+\end_layout
+
+\end_inset
+
+, didalamnya terdapat perkembangan terakhir berupa laporan penelitian serta
+ kode sumbernya.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+refname{DAFTAR PUSTAKA} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "../../../THESISReport/THESIS_Albert"
+options "bibtotoc,authordate1"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+\start_of_appendix
+Log Keluaran
+\end_layout
+
+\begin_layout Section
+MNIST
+\end_layout
+
+\begin_layout Standard
+Log keluaran pada data MNIST dengan menggunakan CNN adalah sebagai berikut:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+Start training
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+[TRAINING DATA] shapes: (60000, 1, 28, 28) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+[TEST DATA] shapes: (10000, 1, 28, 28) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+[TRAINING] Total epochs: 2
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+------------------------------------------------ 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+| Epoch # | Train err | Valid err | Time 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+| 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+------------------------------------------------ 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+| 1 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+| 0.103 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+| 0.04052 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+| 00:11:18 | 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+| 2 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+| 0.02805 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+| 0.02922 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+| 00:11:17 | 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+------------------------------------------------
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+Start testing
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+precision recall f1-score support:
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+0 0.99 0.99 0.99 1006 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+1 0.99 1.00 1.00 1157 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+2 1.00 0.98 0.99 1019 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+3 0.99 0.99 0.99 1008 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+4 0.99 0.99 0.99 930 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+5 0.99 0.99 0.99 877 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+6 0.99 0.99 0.99 997 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+7 0.98 0.99 0.99 1040 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+8 0.97 0.99 0.98 940 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+9 0.99 0.98 0.99 1026
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+avg / total: 
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+0.99 0.99 0.99 10000
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+Validation accuracy: 98.98%
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Keluaran log CNN pada data MNIST
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Log keluaran pada data MNIST dengan menggunakan CSAE adalah sebagai berikut:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+Start training
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Keluaran log CSAE pada data MNIST
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename ../../../THESISReport/img/train_mnist_scae.png
+	lyxscale 40
+	width 60col%
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Grafik galat terhadap epoch CSAE pada MNIST
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Log keluaran pada data MNIST dengan menggunakan CDBN adalah sebagai berikut:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\family typewriter
+\size scriptsize
+Start training
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Keluaran log CDBN pada data MNIST
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+.
+\end_layout
+
+\end_body
+\end_document
